@@ -21,6 +21,9 @@ https://render.com/
 ## netlify
 https://www.netlify.com/
 
+## okteto
+https://cloud.okteto.com/
+
 国内的平台常见和和用的多的有这些
 
 ## 阿里云
